@@ -1,8 +1,0 @@
-from tkinter import *
-
-
-Win1=Tk()
-Win.geometry('600x600')
-
-
-Win1.mainloop
