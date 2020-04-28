@@ -1,0 +1,6 @@
+from tkinter import *
+
+win1.Tk()
+win1.geometry()
+
+win1.mainloop()
